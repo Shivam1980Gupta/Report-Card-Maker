@@ -2,7 +2,7 @@
 //                   HEADER FILE USED IN PROJECT
 //****************************************************************
 
-#include<iostream>
+#include<bits/stdc++.h>>
 #include<fstream>
 #include<iomanip>
 using namespace std;
